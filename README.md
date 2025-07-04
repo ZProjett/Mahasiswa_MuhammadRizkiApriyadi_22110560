@@ -2,10 +2,6 @@
 
 - - - - - - - - 
 
-Aplikasi web berbasis **JSP + Servlet + MySQL** untuk mengelola data mahasiswa seperti **NIM**, **nama**, dan **nilai**. Aplikasi ini cocok digunakan untuk keperluan pembelajaran CRUD (Create, Read, Update, Delete) sederhana menggunakan Java Web.
-
-- - - - - - - - 
-
 #  Fitur Utama
 
 -  **Daftar Mahasiswa**  
